@@ -22,11 +22,9 @@ packages:
     - asciiquarium
     - vim
     - glow
-    - xterm
-    - crow-translate
-    - direnv
+    - htop
     - flatpak
-    - xorg.xeyes
+    - pixi
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -43,17 +41,6 @@ systems:
         name: V
         ssh_private_key_file: ~/.ssh/id_rsa
         ssh_public_key_file: ~/.ssh/id_rsa.pub
-        username: vera
-      username: vera
-    - arch: x86_64
-      home: ""
-      hostname: zenbook
-      os: linux
-      user:
-        email: V@fbi.gov
-        name: V
-        ssh_private_key_file: ""
-        ssh_public_key_file: ""
         username: vera
       username: vera
 track: nixos-unstable
