@@ -25,6 +25,7 @@ packages:
     - xterm
     - crow-translate
     - direnv
+    - flatpak
 paths:
     - $HOME/bin
     - $HOME/.local/bin
