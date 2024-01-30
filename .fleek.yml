@@ -22,6 +22,7 @@ packages:
     - asciiquarium
     - vim
     - glow
+    - xterm
 paths:
     - $HOME/bin
     - $HOME/.local/bin
