@@ -24,7 +24,7 @@
     pkgs.asciiquarium
     pkgs.vim
     pkgs.glow
-    pkgs.xterm
+    pkgs.htop
     # Fleek Bling
     pkgs.git
     pkgs.htop
