@@ -29,6 +29,7 @@
     pkgs.direnv
     pkgs.flatpak
     pkgs.xorg.xeyes
+    pkgs.xorg.twm
     # Fleek Bling
     pkgs.git
     pkgs.htop

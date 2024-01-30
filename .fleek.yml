@@ -27,6 +27,7 @@ packages:
     - direnv
     - flatpak
     - xorg.xeyes
+    - xorg.twm
 paths:
     - $HOME/bin
     - $HOME/.local/bin
