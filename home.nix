@@ -26,6 +26,7 @@
     pkgs.glow
     pkgs.xterm
     pkgs.crow-translate
+    pkgs.direnv
     # Fleek Bling
     pkgs.git
     pkgs.htop

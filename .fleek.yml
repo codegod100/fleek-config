@@ -24,6 +24,7 @@ packages:
     - glow
     - xterm
     - crow-translate
+    - direnv
 paths:
     - $HOME/bin
     - $HOME/.local/bin
