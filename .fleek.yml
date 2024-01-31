@@ -27,6 +27,7 @@ packages:
     - pixi
     - zenith
     - fastfetch
+    - macchina
 paths:
     - $HOME/bin
     - $HOME/.local/bin

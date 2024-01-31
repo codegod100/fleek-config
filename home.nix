@@ -29,6 +29,7 @@
     pkgs.pixi
     pkgs.zenith
     pkgs.fastfetch
+    pkgs.macchina
     # Fleek Bling
     pkgs.git
     pkgs.htop
