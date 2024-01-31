@@ -34,6 +34,7 @@
     pkgs.freshfetch
     pkgs.cmatrix
     pkgs.cargo
+    pkgs.ponysay
     # Fleek Bling
     pkgs.git
     pkgs.htop

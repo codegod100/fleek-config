@@ -32,6 +32,7 @@ packages:
     - freshfetch
     - cmatrix
     - cargo
+    - ponysay
 paths:
     - $HOME/bin
     - $HOME/.local/bin
