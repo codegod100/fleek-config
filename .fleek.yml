@@ -51,6 +51,17 @@ systems:
         ssh_public_key_file: ~/.ssh/id_rsa.pub
         username: vera
       username: vera
+    - arch: x86_64
+      home: ""
+      hostname: fedora
+      os: linux
+      user:
+        email: v@fbi.gov
+        name: vera
+        ssh_private_key_file: ~/.ssh/id_rsa
+        ssh_public_key_file: ~/.ssh/id_rsa.pub
+        username: vera
+      username: vera
 track: nixos-unstable
 unfree: true
 users: []
