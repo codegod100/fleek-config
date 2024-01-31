@@ -31,6 +31,7 @@ packages:
     - onefetch
     - freshfetch
     - cmatrix
+    - cargo
 paths:
     - $HOME/bin
     - $HOME/.local/bin

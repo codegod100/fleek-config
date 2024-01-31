@@ -33,6 +33,7 @@
     pkgs.onefetch
     pkgs.freshfetch
     pkgs.cmatrix
+    pkgs.cargo
     # Fleek Bling
     pkgs.git
     pkgs.htop
