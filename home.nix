@@ -30,6 +30,7 @@
     pkgs.zenith
     pkgs.fastfetch
     pkgs.macchina
+    pkgs.onefetch
     # Fleek Bling
     pkgs.git
     pkgs.htop

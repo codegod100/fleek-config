@@ -28,6 +28,7 @@ packages:
     - zenith
     - fastfetch
     - macchina
+    - onefetch
 paths:
     - $HOME/bin
     - $HOME/.local/bin
