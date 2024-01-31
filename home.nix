@@ -28,7 +28,6 @@
     pkgs.flatpak
     pkgs.pixi
     pkgs.zenith
-    pkgs.incus
     # Fleek Bling
     pkgs.git
     pkgs.htop
