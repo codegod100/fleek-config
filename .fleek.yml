@@ -26,6 +26,7 @@ packages:
     - flatpak
     - pixi
     - zenith
+    - incus
 paths:
     - $HOME/bin
     - $HOME/.local/bin
