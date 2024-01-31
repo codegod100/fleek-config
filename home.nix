@@ -28,6 +28,7 @@
     pkgs.flatpak
     pkgs.pixi
     pkgs.zenith
+    pkgs.fastfetch
     # Fleek Bling
     pkgs.git
     pkgs.htop

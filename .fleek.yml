@@ -26,6 +26,7 @@ packages:
     - flatpak
     - pixi
     - zenith
+    - fastfetch
 paths:
     - $HOME/bin
     - $HOME/.local/bin
