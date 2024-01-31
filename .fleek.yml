@@ -29,6 +29,7 @@ packages:
     - fastfetch
     - macchina
     - onefetch
+    - freshfetch
 paths:
     - $HOME/bin
     - $HOME/.local/bin

@@ -31,6 +31,7 @@
     pkgs.fastfetch
     pkgs.macchina
     pkgs.onefetch
+    pkgs.freshfetch
     # Fleek Bling
     pkgs.git
     pkgs.htop
