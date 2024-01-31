@@ -33,6 +33,7 @@
     pkgs.cmatrix
     pkgs.cargo
     pkgs.ponysay
+    pkgs.ncdu
     # Fleek Bling
     pkgs.git
     pkgs.htop
