@@ -24,12 +24,10 @@
     pkgs.asciiquarium
     pkgs.vim
     pkgs.glow
-    pkgs.xterm
-    pkgs.crow-translate
-    pkgs.direnv
+    pkgs.htop
     pkgs.flatpak
-    pkgs.xorg.xeyes
-    pkgs.gnome.gnome-terminal
+    pkgs.pixi
+    pkgs.zenith
     # Fleek Bling
     pkgs.git
     pkgs.htop
