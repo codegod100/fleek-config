@@ -29,7 +29,6 @@
     pkgs.pixi
     pkgs.zenith
     pkgs.fastfetch
-    pkgs.macchina
     pkgs.onefetch
     pkgs.freshfetch
     pkgs.cmatrix

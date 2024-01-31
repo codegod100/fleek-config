@@ -27,7 +27,6 @@ packages:
     - pixi
     - zenith
     - fastfetch
-    - macchina
     - onefetch
     - freshfetch
     - cmatrix
