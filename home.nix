@@ -32,6 +32,7 @@
     pkgs.macchina
     pkgs.onefetch
     pkgs.freshfetch
+    pkgs.cmatrix
     # Fleek Bling
     pkgs.git
     pkgs.htop

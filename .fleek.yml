@@ -30,6 +30,7 @@ packages:
     - macchina
     - onefetch
     - freshfetch
+    - cmatrix
 paths:
     - $HOME/bin
     - $HOME/.local/bin
