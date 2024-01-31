@@ -30,7 +30,6 @@
     pkgs.zenith
     pkgs.fastfetch
     pkgs.onefetch
-    pkgs.freshfetch
     pkgs.cmatrix
     pkgs.cargo
     pkgs.ponysay

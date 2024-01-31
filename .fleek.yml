@@ -28,7 +28,6 @@ packages:
     - zenith
     - fastfetch
     - onefetch
-    - freshfetch
     - cmatrix
     - cargo
     - ponysay
